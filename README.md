@@ -1,7 +1,9 @@
+[scaladexImg]: https://index.scala-lang.org/kemichal/function-queue/function-queue/latest.svg
+[scaladexLink]: https://index.scala-lang.org/kemichal/function-queue/function-queue
 [licenseImg]: https://img.shields.io/:license-MIT-blue.svg
 [licenseLink]: LICENSE
 
-# function-queue [![License][licenseImg]][licenseLink]
+# function-queue [![Scaladex][scaladexImg]][scaladexLink] [![License][licenseImg]][licenseLink]
 `function-queue` is a collection of classes for queueing up execution of functions in Scala.
 
 ## AsyncFunctionQueue
